@@ -110,6 +110,7 @@ sudoku-solver/
 - Jay Kanade - 66
 - Suman Kewat - 68
 - Aditi Patil  - 125
+- Daksh Joshi - 64
 
 *(All members are added as collaborators in the GitHub repository.)*
 
